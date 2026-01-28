@@ -5,7 +5,7 @@
 
 ### Código de Referencia
 
-* [Python](./ejemplo.py.py)
+* [Python](./ejemplo.py)
 * [Java](./ejemplo.java)
 
 ### Estructura UML
