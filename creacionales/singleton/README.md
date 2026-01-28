@@ -1,4 +1,4 @@
-## Factory Method
+## Singleton
 
 * **Categoría:** Creacional
 * **Propósito:** Garantizar que una clase tenga una única instancia y proveer un punto de acceso global.

@@ -1,7 +1,7 @@
-## Abstract Factory
+## Chain of Responsibility
 
-* **Categoría:** Creacional
-* **Propósito:** Crear familias de objetos relacionados sin especificar sus clases concretas.
+* **Categoría:** Comportamiento
+* **Propósito:** Pasar solicitudes a lo largo de una cadena de manejadores.
 
 ### Código de Referencia
 

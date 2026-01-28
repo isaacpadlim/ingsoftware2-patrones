@@ -1,7 +1,7 @@
-## Factory Method
+## Builder
 
 * **Categoría:** Creacional
-* **Propósito:** Crear familias de objetos relacionados sin especificar sus clases concretas.
+* **Propósito:** Separar la construcción de un objeto complejo de su representación paso a paso.
 
 ### Código de Referencia
 

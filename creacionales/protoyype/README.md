@@ -1,7 +1,7 @@
-## Factory Method
+## Prototype
 
 * **Categoría:** Creacional
-* **Propósito:** Crear familias de objetos relacionados sin especificar sus clases concretas.
+* **Propósito:** Crear nuevos objetos copiando una instancia prototípica existente.
 
 ### Código de Referencia
 

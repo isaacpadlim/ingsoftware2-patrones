@@ -1,7 +1,7 @@
-## Abstract Factory
+## Memento
 
-* **Categoría:** Creacional
-* **Propósito:** Crear familias de objetos relacionados sin especificar sus clases concretas.
+* **Categoría:** Comportamiento
+* **Propósito:** Capturar y restaurar el estado interno de un objeto sin violar la encapsulación.
 
 ### Código de Referencia
 
