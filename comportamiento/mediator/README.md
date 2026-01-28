@@ -1,7 +1,7 @@
-## Abstract Factory
+## Mediator
 
-* **Categoría:** Creacional
-* **Propósito:** Crear familias de objetos relacionados sin especificar sus clases concretas.
+* **Categoría:** Comportamiento
+* **Propósito:** Reducir dependencias caóticas entre objetos haciéndolos comunicar a través de un objeto mediador.
 
 ### Código de Referencia
 
