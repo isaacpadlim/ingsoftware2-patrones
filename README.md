@@ -1,9 +1,5 @@
 # ingsoftware2-patrones
 
-
-
-
-
 ## Patrones Estructurales
 
 Los patrones estructurales se enfocan en **cómo se componen las clases y los objetos**
@@ -36,3 +32,20 @@ Cada patrón incluye:
 
 - [Proxy](./estructurales/proxy/README.md)  
   Proporciona un sustituto que controla el acceso a un objeto real.
+
+### Catálogo de Patrones Creacionales
+
+- [Abstract Factory](./creacionales/abstractFactory/README.md)  
+  Crear familias de objetos relacionados sin especificar sus clases concretas.
+
+- [Builder](./creacionales/builder/README.md)  
+  Separar la construcción de un objeto complejo de su representación paso a paso.
+
+- [Factory Method](./creacionales/factoryMethod/README.md)  
+  Define una interfaz para crear objetos, pero permite a las subclases decidir qué clase instanciar.
+
+- [Prototype](./creacionales/prototype/README.md)  
+  Crear nuevos objetos copiando una instancia prototípica existente.
+
+- [Singleton](./creacionales/singleton/README.md)  
+  Garantizar que una clase tenga una única instancia y proveer un punto de acceso global.
