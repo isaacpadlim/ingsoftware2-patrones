@@ -11,6 +11,7 @@ Encapsular una solicitud como un objeto, permitiendo parametrizar clientes con d
 - [Implementación en Python](./codepython.py)
 - [Implementación en Java](./jcodjava.java)
 
+```text
 +---------------+
 |   Command     |
 +---------------+
